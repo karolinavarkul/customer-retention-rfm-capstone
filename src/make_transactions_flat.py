@@ -19,7 +19,7 @@ This script:
 
 Input
 -----
-data/raw/<original_file_name>.csv
+data/raw/sales_raw.csv
 
 Output
 ------
