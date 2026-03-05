@@ -5,7 +5,7 @@ The dataset represents transactional sales data from a mid-sized office supply r
 
 The primary customer base consists of small-to-medium enterprises that rely on consistent supply purchases to support their operations. As a result, customer retention and repeat purchasing behavior are critical drivers of long-term revenue stability.
 
-The dataset covers transactions from [YEAR–YEAR], enabling temporal analysis of retention patterns.
+The dataset covers transactions from January to June 2025, enabling temporal analysis of retention patterns.
 
 ## Business Problem
 Although the company maintains steady overall sales volume, leadership has identified uneven revenue distribution across customers and inconsistent repeat purchasing behavior.
